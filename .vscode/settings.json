@@ -3,13 +3,7 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "name": "Hostel",
-            "database": "database.db"
-        },
-        {
-            "previewLimit": 50,
-            "driver": "SQLite",
-            "name": "DB",
+            "name": "databaseconnect",
             "database": "databaseconnect.db"
         }
     ]
